@@ -229,6 +229,7 @@ a{
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--primary-black-color);
+    margin-bottom: 50px;
 }
 
 
